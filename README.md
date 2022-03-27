@@ -6,7 +6,8 @@ Submitted by: **Dylan Cocoletzi**
 
 Time spent: **24** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/sunset-sweet-nape?path=script.js%3A148%3A12
+Link to project: https://glitch.com/edit/#!/sunset-sweet-nape?path=script.js%3A167%3A25
+Please open preview in a new window to get the full game experience
 
 ## Required Functionality
 
@@ -49,6 +50,12 @@ Start and Stop button in action:
 Give user three strikes in action:
 
 ![Screen Recording 2022-03-26 at 5 29 47 PM](https://user-images.githubusercontent.com/86747062/160263953-eed17ded-4dd8-41ea-93bb-500e24d069fd.gif)
+
+Demonstration of user winning the game:
+
+![First Part](https://user-images.githubusercontent.com/86747062/160266100-d6183558-9be5-48bd-bebe-fccbb5e8510e.gif)
+
+![Second Part](https://user-images.githubusercontent.com/86747062/160266273-c06f0d3f-6c0e-4a16-82b4-0bb0f3fc3e9b.gif)
 
 
 ## Reflection Questions
