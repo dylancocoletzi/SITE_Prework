@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
+Start and Stop button in action
 ![Screen Recording 2022-03-26 at 5 27 01 PM](https://user-images.githubusercontent.com/86747062/160263847-231cc29a-640c-4ca5-a58b-256d122be375.gif)
 
 
