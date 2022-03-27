@@ -43,10 +43,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![Screen Recording 2022-03-26 at 5 27 01 PM](https://user-images.githubusercontent.com/86747062/160262713-25e41800-ad98-4c3c-9c77-97f62a390b15.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
