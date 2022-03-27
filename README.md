@@ -43,7 +43,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Screen Recording 2022-03-26 at 5 27 01 PM](https://user-images.githubusercontent.com/86747062/160262713-25e41800-ad98-4c3c-9c77-97f62a390b15.gif)
+![Screen_Recording_2022-03-26_at_5_27_01_PM_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/86747062/160263437-d3debe6e-7f9d-4190-aac6-bf2e452da4d2.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
