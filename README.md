@@ -7,6 +7,7 @@ Submitted by: **Dylan Cocoletzi**
 Time spent: **24** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/sunset-sweet-nape?path=script.js%3A167%3A25
+
 Please open preview in a new window to get the full game experience
 
 ## Required Functionality
