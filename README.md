@@ -61,7 +61,7 @@ Demonstration of user winning the game:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.w3schools.com/js/js_random.asp, 
+https://www.w3schools.com/js/js_random.asp, https://stackoverflow.com/questions/2856059/passing-an-array-as-a-function-parameter-in-javascript, https://www.w3schools.com/cssref/pr_background-image.asp, https://www.youtube.com/watch?v=Hwq_Mr12bcI, https://www.w3schools.com/css/css_border_color.asp, https://www.w3schools.com/js/js_output.asp, https://www.w3schools.com/jsref/met_audio_play.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
