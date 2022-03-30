@@ -4,7 +4,7 @@
 
 Submitted by: **Dylan Cocoletzi**
 
-Time spent: **31** hours spent in total
+Time spent: **36** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/sunset-sweet-nape?path=script.js%3A71%3A11
 
