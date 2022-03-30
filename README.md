@@ -48,6 +48,17 @@ Start and Stop button in action:
 
 ![Screen Recording 2022-03-26 at 5 27 01 PM](https://user-images.githubusercontent.com/86747062/160263847-231cc29a-640c-4ca5-a58b-256d122be375.gif)
 
+Give user three strikes in action:
+
+![Screen Recording 2022-03-26 at 5 29 47 PM](https://user-images.githubusercontent.com/86747062/160263953-eed17ded-4dd8-41ea-93bb-500e24d069fd.gif)
+
+Demonstration of user winning the game:
+
+![First Part](https://user-images.githubusercontent.com/86747062/160266100-d6183558-9be5-48bd-bebe-fccbb5e8510e.gif)
+
+
+![Second Part](https://user-images.githubusercontent.com/86747062/160266273-c06f0d3f-6c0e-4a16-82b4-0bb0f3fc3e9b.gif)
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
