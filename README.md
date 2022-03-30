@@ -48,7 +48,7 @@ Start and Stop button in action:
 
 ![Screen Recording 2022-03-26 at 5 27 01 PM](https://user-images.githubusercontent.com/86747062/160263847-231cc29a-640c-4ca5-a58b-256d122be375.gif)
 
-Give user three strikes in action:
+Give user two strikes in action:
 
 ![Screen Recording 2022-03-26 at 5 29 47 PM](https://user-images.githubusercontent.com/86747062/160263953-eed17ded-4dd8-41ea-93bb-500e24d069fd.gif)
 
